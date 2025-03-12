@@ -6,7 +6,7 @@ import time
 conexion = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="4220",
+    password="your Password",
     database="inegi_ruben_DB"
 )
 cursor = conexion.cursor()
