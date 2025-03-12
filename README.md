@@ -5,12 +5,19 @@ De la misma manera el repositorio contiene un archivo de prueba Excel y en la ca
 
 Estructura del proyecto
 /migracion
+
 |── insert_all.py
+
 │── muestra_test.xlsx               
+
 │── requeriments.txt
+
 │── V1_insert_empresa.py
+
 /sql
+
 │── create_database_Inegi.sql
+
 │── querys_test.sql
 
 Ejecución:
