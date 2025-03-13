@@ -1,7 +1,7 @@
 # INEGI-MIGRACION_DB
 El repositorio contiene una explicación de la creación de una solución aplicada para migrar datos en grandes cantidades, explica el proceso seguido para normalizar una base de datos de forma remota.
 la carpeta Migracion presenta una muestra de datos que se utilizó para insertar los registros de un archivo originalmente de 138,124 registros con 15 columnas en total.
-De la misma manera el repositorio contiene un archivo de prueba Excel y en la carpeta “Migracion” una carpeta sql la cual contiene el esquema de la base de datos.
+Tambien carpeta sql la cual contiene el esquema de la base de datos.
 
 Estructura del proyecto
 /migracion
