@@ -21,11 +21,12 @@ Estructura del proyecto
 │── querys_test.sql
 
 Ejecución:
-1. Crear enviroment(opcional)
-2. ejecuta: “Migracion/requeriment.txt”
-3. Crea el esquema de la base de datos con el script “sql/create_db_Inegi_schema.sql”
-4. Modifica el archivo “Insert_all.py” o “V1_insert_empresa.py” con las credenciales de tu base de datos sql
-5.Visualiza con el script “sql/query_test.sql” la visualización de tus datos
+1. Clonar repositorio.
+2. Crear enviroment(opcional).
+3. Ejecuta: “Migracion/requeriment.txt”.
+4. Crea el esquema de la base de datos con el script “sql/create_db_Inegi_schema.sql”.
+5. Modifica el archivo “Insert_all.py” o “V1_insert_empresa.py” con las credenciales de tu base de datos sql.
+6. Visualiza con el script “sql/query_test.sql” la visualización de tus datos.
 
 
 Proceso de Migración de Datos
